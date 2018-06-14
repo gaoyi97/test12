@@ -364,4 +364,5 @@ INSERT INTO `aoi_statistics` VALUES ('321', 'S001', 'LS_23565455', 'Lab_36542', 
 INSERT INTO `aoi_statistics` VALUES ('322', 'S001', 'LS_23565455', 'Lab_36542', 'D136446', 'P1205', 'NG', 'distanceEr', 'Opera001', '2018-06-06', '14:28:23', 'Y', 'AVW', '1');
 INSERT INTO `aoi_statistics` VALUES ('323', 'S001', 'LS_23565455', 'Lab_36542', 'D136446', 'P1205', 'Pass', '', 'Opera001', '2018-06-06', '14:28:23', 'Y', 'AVW', '1');
 INSERT INTO `aoi_statistics` VALUES ('324', 'S001', 'LS_23565455', 'Lab_36542', 'D136446', 'P1205', 'Pass', '', 'Opera001', '2018-06-06', '14:28:24', 'Y', 'AVW', '1');
-INSERT INTO `aoi_statistics` VALUES ('325', 'S001', 'LS_23565455', 'Lab_36542', 'D136446', 'P1205', 'Pass', '', 'Opera001', '2018-06-06', '14:28:24', 'Y', 'AVW', '1');
+INSERT  INTO `aoi_statistics` VALUES（'325' ，'S001' ，'LS_23565455' ，'Lab_36542' ，'D136446' ，'P1205' ，'通行证'，'' ，'Opera001' ，'2018年6月6日'，'14：28：24'，'Y'，'AVW'，'1'）;
+ins
